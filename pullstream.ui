@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>pullstream</class>
+ <widget class="QDialog" name="pullstream">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>30</y>
+     <width>80</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>返回</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_r1_1" native="true">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>90</y>
+     <width>200</width>
+     <height>150</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/uiresource/allmute remote.png);
+border-color: #D8D8D8;
+border-size:1px;
+border-radius:2px;</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_r1_4" native="true">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>260</y>
+     <width>200</width>
+     <height>150</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/uiresource/allmute remote.png);
+border-color: #D8D8D8;
+border-size:1px;
+border-radius:2px;</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_r1_2" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>90</y>
+     <width>200</width>
+     <height>150</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/uiresource/allmute remote.png);
+border-color: #D8D8D8;
+border-size:1px;
+border-radius:2px;</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_r1_3" native="true">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>90</y>
+     <width>200</width>
+     <height>150</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/uiresource/allmute remote.png);
+border-color: #D8D8D8;
+border-size:1px;
+border-radius:2px;</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_r1_5" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>260</y>
+     <width>200</width>
+     <height>150</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/uiresource/allmute remote.png);
+border-color: #D8D8D8;
+border-size:1px;
+border-radius:2px;</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="widget_r1_6" native="true">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>260</y>
+     <width>200</width>
+     <height>150</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">image: url(:/uiresource/allmute remote.png);
+border-color: #D8D8D8;
+border-size:1px;
+border-radius:2px;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="mic">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>30</y>
+     <width>80</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>麦克风</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="camera">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>30</y>
+     <width>80</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>摄像头</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
